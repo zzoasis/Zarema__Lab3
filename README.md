@@ -5,7 +5,7 @@
 
 ![Снимок1](https://github.com/zzoasis/Zarema__Lab3/blob/master/Снимок1.PNG)
  
- Скрипт для создания таблицы:
+ ## Скрипт для создания таблицы:
  CREATE TABLE IF NOT EXISTS `human`.`human` (
     id INT NOT NULL AUTO_INCREMENT,
     `name` VARCHAR(45) NOT NULL,
